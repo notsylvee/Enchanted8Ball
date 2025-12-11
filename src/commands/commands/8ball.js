@@ -46,7 +46,8 @@ module.exports = {
             "no",
             "lalala cant hear you",
             "lol no",
-            "snooping as usual, I see."
+            "snooping as usual, I see.",
+            "Ye"
         ];
         const answer = answers[Math.floor(Math.random() * answers.length)];
     
